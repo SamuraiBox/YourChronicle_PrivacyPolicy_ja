@@ -20,6 +20,7 @@ Samurai Box LLCは、Your Chronicleアプリをフリーミアムアプリとし
 *   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 *   [Unity](https://unity3d.com/legal/privacy-policy)
+*   [ironSource]([https://unity3d.com/legal/privacy-policy](https://cdn.iads.unity3d.com/privacy-policy/privacypolicy.html))
 
 **ログデータ**
 
