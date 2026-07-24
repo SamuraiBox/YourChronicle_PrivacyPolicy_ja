@@ -19,8 +19,20 @@ Samurai Box LLCは、Your Chronicleアプリをフリーミアムアプリとし
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+*   [Firebase Authentication](https://firebase.google.com/support/privacy)
+*   [Cloud Firestore](https://firebase.google.com/support/privacy)
 *   [Unity](https://unity3d.com/legal/privacy-policy)
 *   [ironSource](https://cdn.iads.unity3d.com/privacy-policy/privacypolicy.html)
+
+**クラウドセーブ機能**
+
+本サービスは、ゲームの進行状況を複数の端末間でバックアップ・復元できる、任意のクラウドセーブ機能を提供しています。この機能を利用するには、メールアドレスとパスワードを使用してアカウントを作成していただく必要があります。
+
+*   メールアドレスはアカウント認証のために使用され、Firebase Authentication(Google社が提供するサービス)によって管理されます。登録されたメールアドレスはFirebase Authenticationの管理画面上で運営者が閲覧できる状態にありますが、当社がこの情報を利用したり、これに基づいてお客様に連絡したりすることはありません。
+*   パスワードはFirebase Authenticationによってハッシュ化された形で管理されます。当社がお客様のパスワードそのものを平文で確認することはできません。
+*   ゲームの進行データ(セーブデータ)は、Cloud Firestore(Google社が提供するサービス)に保存されます。クライアントアプリからのアクセスはお客様ご自身の認証済みアカウントに制限されますが、サービス提供者として、本サービスの運用・保守・トラブルシューティングに必要な範囲で、当社が保存されたデータに管理者としてアクセスする場合があります。
+*   セーブデータ自体には、ゲーム内の進行状況に関する情報のみが含まれており、個人を特定できる情報や端末情報は一切含まれません。
+*   この機能は完全に任意です。この情報を提供したくない場合は、アカウントを作成せずに、端末内のローカルストレージにセーブデータを保存する形で本サービスをご利用いただけます。
 
 **ログデータ**
 
@@ -59,7 +71,7 @@ Samurai Box LLCは、Your Chronicleアプリをフリーミアムアプリとし
 
 私たちは、当社のプライバシーポリシーを随時更新することがあります。従って、お客様は定期的にこのページをご覧になり、変更を確認されることをお勧めします。私たちは、このページに新しいプライバシーポリシーを掲載することにより、変更を通知します。
 
-このポリシーは、2023-02-03より有効となります。
+このポリシーは、2026-07-24より有効となります。
 
 **コンタクト**
 
